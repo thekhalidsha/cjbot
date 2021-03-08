@@ -1,3 +1,4 @@
+FROM main/cjbot:latest
 
 RUN git clone https://github.com/cyberjeevi/cjbot /root/cjbot
 WORKDIR /root/cjbot/
