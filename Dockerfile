@@ -1,5 +1,4 @@
-FROM main/cjbot:latest
-
+FROM fusuf/whatsasena:latest
 RUN git clone https://github.com/cyberjeevi/cjbot /root/cjbot
 WORKDIR /root/cjbot/
 ENV TZ=Europe/Istanbul
