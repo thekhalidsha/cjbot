@@ -58,7 +58,6 @@ is not responsible for the usage purpose and method of the users.
 ```
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
   <h1>🐺 CJBOT</h1>
 </div>
 <p align="center">
